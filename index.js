@@ -31,7 +31,7 @@ function iLoveTheBeatles(n) {
     
   
   
-  return loveNumber
+  return array
   
   }
 
